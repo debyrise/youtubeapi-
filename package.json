@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "js-abbreviation-number": "^1.4.0",
+    "react-player": "^2.13.0"
+  }
+}
